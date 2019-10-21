@@ -13,6 +13,7 @@ GEM
     concurrent-ruby (1.1.4)
     domain_name (0.5.20180417)
       unf (>= 0.0.5, < 1.0.0)
+    dotenv (2.7.5)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     i18n (1.5.1)
@@ -49,6 +50,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dotenv
   ruby-trello
   terminal-table
 
@@ -56,4 +58,4 @@ RUBY VERSION
    ruby 2.5.1p57
 
 BUNDLED WITH
-   1.16.3
+   1.17.3

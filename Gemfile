@@ -5,3 +5,4 @@ ruby '2.5.1'
 
 gem 'ruby-trello'
 gem 'terminal-table'
+gem 'dotenv'
